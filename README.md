@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... akshatag107@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love photography
+
+
+[![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat-sGit)](https://github.com/anuraghazra/github-readme-stats)
