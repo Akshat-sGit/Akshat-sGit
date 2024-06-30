@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 - 🔭 **Currently Working On:** 
-  - **Flutter** projects, crafting seamless mobile experiences.
+  -- **Flutter** projects, crafting seamless mobile experiences.
 
 - 🌱 **Currently Learning:** 
   - JavaScript, expanding my web development skills.
