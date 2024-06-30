@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I love photography
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-sGit)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-sGit&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit)](https://git.io/streak-stats)
