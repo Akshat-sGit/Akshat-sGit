@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 **Akshat-sGit/Akshat-sGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love photography
 
+### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit" alt="GitHub Streak" />
+</div>
