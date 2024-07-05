@@ -27,6 +27,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit&theme=dark" alt="GitHub Streak" />
 </div>
 
+<img
+  src="https://github.com/Akshat-sGit/Akshat-sGit/blob/main/images/stat.svg"
+  alt="Akshat's Wakatime Activity"
+/>
+
+
 ---
 
 Thanks for visiting! Feel free to reach out if you want to collaborate on exciting projects.
