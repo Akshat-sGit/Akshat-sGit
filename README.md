@@ -29,8 +29,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit&theme=dark" alt="GitHub Streak" />
 </div>
 
-
-![](https://raw.githubusercontent.com/Akshat-sGit/Akshat-sGit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)
+[![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/Akshat-sGit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/Akshat-sGit/github-profile-summary-cards)
 ---
 
 Thanks for visiting! Feel free to reach out if you want to collaborate on exciting projects.
