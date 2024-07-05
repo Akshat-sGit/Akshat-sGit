@@ -27,11 +27,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit&theme=dark" alt="GitHub Streak" />
 </div>
 
-<img
-  src="https://github.com/Akshat-sGit/Akshat-sGit/blob/main/images/stat.svg"
-  alt="Akshat's Wakatime Activity"
-/>
 
+
+[![wakatime](https://wakatime.com/badge/github/Akshat-sGit/Akshat-sGit.svg)](https://wakatime.com/badge/github/Akshat-sGit/Akshat-sGit)
 
 ---
 
