@@ -30,7 +30,7 @@
 </div>
 
 
-![](https://raw.githubusercontent.com/Thickduck/Thickduck/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Akshat-sGit/Akshat-sGit/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)
 ---
 
 Thanks for visiting! Feel free to reach out if you want to collaborate on exciting projects.
