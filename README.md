@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![wakatime](https://wakatime.com/badge/github/Akshat-sGit/Akshat-sGit.svg)](https://wakatime.com/badge/github/Akshat-sGit/Akshat-sGit)
-[![wakatime](https://wakatime.com/badge/user/7f7dc497-ff8f-421f-a06c-b3fff5b59066/project/a1e59a3c-a781-4ba3-9d4b-d66767f43879.svg)](https://wakatime.com/badge/user/7f7dc497-ff8f-421f-a06c-b3fff5b59066/project/a1e59a3c-a781-4ba3-9d4b-d66767f43879)
+
 ## 🚀 About Me
 
 - 🔭 **Currently Working On:** 
