@@ -27,10 +27,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-sGit&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit&theme=dark" alt="GitHub Streak" />
+  <figure><embed src="https://wakatime.com/share/@JellyBean/35669af3-7a03-435b-9dd0-2fa4e96b5679.svg"></embed></figure>
 </div>
 
 
-<figure><embed src="https://wakatime.com/share/@JellyBean/35669af3-7a03-435b-9dd0-2fa4e96b5679.svg"></embed></figure>
+
 
 
 
