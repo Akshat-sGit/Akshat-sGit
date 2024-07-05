@@ -27,6 +27,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-sGit&theme=dark" alt="GitHub Streak" />
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/waka_7cdf78a5-6c12-46c0-a4ab-9d20a91a5093.svg)](https://wakatime.com/@waka_7cdf78a5-6c12-46c0-a4ab-9d20a91a5093)
+
 ---
 
 Thanks for visiting! Feel free to reach out if you want to collaborate on exciting projects.
