@@ -1,6 +1,5 @@
-## Hi there 👋
+# Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/github/Akshat-sGit/Akshat-sGit.svg)](https://wakatime.com/badge/github/Akshat-sGit/Akshat-sGit)
 
 ## 🚀 About Me
 
