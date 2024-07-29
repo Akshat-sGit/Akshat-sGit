@@ -36,6 +36,9 @@
  <img width="1000" src="gitSnake.svg" alt="snake"/>
 </p>
 
+## Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66a4ad8df22c59ba7577758f?variant=dark)](https://roadmap.sh)
 
 ---
 
