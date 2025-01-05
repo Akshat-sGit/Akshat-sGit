@@ -6,9 +6,6 @@
 - 🔭 **Currently Working On:** 
   - **Flutter** projects, crafting seamless mobile experiences.
 
-- 🌱 **Currently Learning:** 
-  - JavaScript, expanding my web development skills.
-
 - 👯 **Looking to Collaborate On:** 
   - Exciting Flutter and Blockchain projects.
 
