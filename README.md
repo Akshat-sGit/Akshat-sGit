@@ -5,7 +5,9 @@
 
 - 🔭 **Currently Working On:** 
   - **Flutter** projects, crafting seamless mobile experiences.
-
+  - **APIs**
+  - **Flask**
+    
 - 👯 **Looking to Collaborate On:** 
   - Exciting Flutter and Blockchain projects.
 
